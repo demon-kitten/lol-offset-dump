@@ -56,3 +56,5 @@ lol-offset-dump/x64/Release/lol-offset-dump.exe.recipe
 *.ipch
 lol-offset-dump/x64/Release/lol-offset-dump.tlog/unsuccessfulbuild
 *.vsidx
+/lol-offset-dump/x64
+/lol-offset-dump/Release
