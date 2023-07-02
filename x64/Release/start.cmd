@@ -1,1 +1,0 @@
-async-dumper.exe "D:\LOLDumps\13.10.509.8402\League of Legends.exe"
